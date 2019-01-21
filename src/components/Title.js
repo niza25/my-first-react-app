@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 
 export default class Title extends Component {
   render() {
-    return 'test'
+    return (
+        <div>My very title</div>
+    )
   }
 }
